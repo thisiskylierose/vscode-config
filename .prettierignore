@@ -1,0 +1,9 @@
+.editorconfig
+.eslintrc
+.prettierrc
+package.json
+*.md
+*.log
+*.css
+*.html
+*.min.*
